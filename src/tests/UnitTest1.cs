@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace MyGithubActionsPresentation.Tests
-{
+{ 
   [TestClass]
   public class UnitTest1
   {
